@@ -24,5 +24,5 @@ A desktop application built with Python that interfaces with the Open Library Se
 
 ## Project Participants
 - <a href="https://www.github.com/RodrigoFVaz">Rodrigo Vaz</a>
-- Tiago Rodrigues
+- <a href="https://github.com/TiagoRodriguesSec">Tiago Rodrigues</a>
 - <a href="https://www.github.com/CadelDavid">David Cadel</a>
